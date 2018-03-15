@@ -1,152 +1,26 @@
-[2017-12-13T21:58:47.063] [INFO] development - GET / RESPONSE: 404
-[2017-12-13T21:58:47.089] [INFO] development - GET /favicon.ico RESPONSE: 404
-[2017-12-13T21:58:48.538] [INFO] development - GET / RESPONSE: 404
-[2017-12-13T21:59:12.270] [INFO] development - GET / RESPONSE: 404
-[2017-12-13T22:07:45.596] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 404
-[2017-12-13T22:07:47.298] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 404
-[2017-12-13T22:07:56.138] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 404
-[2017-12-13T22:07:56.317] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 404
-[2017-12-13T22:07:56.497] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 404
-[2017-12-13T22:07:56.673] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 404
-[2017-12-13T22:07:56.840] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 404
-[2017-12-13T22:08:29.334] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 404
-[2017-12-13T22:10:23.768] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 405
-[2017-12-13T22:10:25.729] [INFO] development - GET /api/v1/user/authenticate RESPONSE: 405
-[2017-12-13T22:16:19.572] [INFO] development - GET / RESPONSE: 200
-[2017-12-13T22:16:21.402] [INFO] development - GET / RESPONSE: 200
-[2017-12-13T22:16:21.599] [INFO] development - GET / RESPONSE: 200
-[2017-12-13T22:16:21.777] [INFO] development - GET / RESPONSE: 200
-[2017-12-13T22:16:21.964] [INFO] development - GET / RESPONSE: 200
-[2017-12-13T22:16:40.171] [INFO] development - GET //api/v1/user/authenticate/ RESPONSE: 404
-[2017-12-13T22:16:47.058] [INFO] development - GET / RESPONSE: 200
-[2017-12-13T22:17:22.956] [INFO] development - GET //api/v1/user/authenticate/ RESPONSE: 404
-[2017-12-13T22:17:24.286] [INFO] development - GET //api/v1/user/authenticate/ RESPONSE: 404
-[2017-12-13T22:17:26.279] [INFO] development - GET //api/v1/user/authenticate/ RESPONSE: 404
-[2017-12-13T22:17:32.013] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:17:33.751] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:17:33.937] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:17:34.106] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:17:34.280] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:17:34.465] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:17:34.614] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:17:34.798] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:17:34.960] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:17:40.466] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 404
-[2017-12-13T22:17:41.381] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 404
-[2017-12-13T22:20:44.668] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:21:07.485] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:27:36.031] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:27:43.765] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 200
-[2017-12-13T22:38:57.921] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:39:16.418] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 404
-[2017-12-13T22:39:17.819] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 404
-[2017-12-13T22:39:22.333] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:43:37.438] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:43:38.991] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:44:27.065] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:44:32.990] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:47:29.224] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:47:49.622] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:47:51.895] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:48:19.583] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:48:29.265] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:49:09.404] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:49:14.151] [INFO] development - { message: 'Not Found',
+[2018-03-15T18:32:42.138] [INFO] development - GET /app.styl RESPONSE: 404
+[2018-03-15T18:32:42.143] [INFO] development - GET /css/app.css RESPONSE: 200
+[2018-03-15T18:32:44.978] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-15T18:32:45.014] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-15T18:32:45.027] [INFO] development - { message: 'Not Found',
   name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>',
   status: 404 }
-[2017-12-13T22:49:14.153] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:49:16.554] [INFO] development - { message: 'Not Found',
+[2018-03-15T18:32:45.027] [INFO] development - GET /app.styl RESPONSE: 404
+[2018-03-15T18:32:45.028] [INFO] development - GET /css/app.css RESPONSE: 200
+[2018-03-15T18:32:51.232] [INFO] development - GET /css/app.css?livereload=1521109971230 RESPONSE: 200
+[2018-03-15T18:32:57.383] [INFO] development - GET /css/app.css?livereload=1521109977381 RESPONSE: 200
+[2018-03-15T18:40:23.163] [INFO] development - GET /css/app.css?livereload=1521110423160 RESPONSE: 200
+[2018-03-15T18:51:29.429] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-15T18:51:29.489] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-15T18:51:29.489] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-15T18:51:29.489] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-15T18:51:29.489] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-15T18:51:29.506] [INFO] development - { message: 'Not Found',
   name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>',
   status: 404 }
-[2017-12-13T22:49:16.554] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:49:17.055] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:49:17.056] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:49:17.263] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:49:17.264] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:50:17.842] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:50:17.847] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:50:38.735] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:50:38.742] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:50:40.155] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:50:40.155] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:05.923] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:05.931] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:08.523] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:08.524] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:10.736] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:10.737] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:20.416] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:20.423] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:23.679] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:23.680] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:23.851] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:23.852] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:24.026] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:24.027] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:24.188] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:24.189] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:24.344] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:24.346] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:24.508] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:24.509] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:35.666] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:38.747] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:51:42.272] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:51:42.278] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:52:33.805] [INFO] development - { message: 'Not Found',
-  name: 'NotFoundError',
-  stack: 'NotFoundError: Not Found\n    at Object.throw (D:\\Works\\koa\\node_modules\\koa\\lib\\context.js:92:11)\n    at next.then (D:\\Works\\koa\\node_modules\\koa-json-error\\lib\\middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
-  status: 404 }
-[2017-12-13T22:52:33.813] [INFO] development - GET /api/v1/user/authenti RESPONSE: 404
-[2017-12-13T22:52:39.306] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
-[2017-12-13T22:52:40.964] [INFO] development - GET /api/v1/user/authenticate/ RESPONSE: 405
+[2018-03-15T18:51:29.509] [INFO] development - GET /app.styl RESPONSE: 404
+[2018-03-15T18:51:29.512] [INFO] development - GET /css/app.css RESPONSE: 200
+[2018-03-15T18:51:37.970] [INFO] development - GET /css/app.css?livereload=1521111097968 RESPONSE: 200
+[2018-03-15T18:51:43.750] [INFO] development - GET /css/app.css?livereload=1521111103747 RESPONSE: 200

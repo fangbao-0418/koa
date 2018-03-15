@@ -1,0 +1,195 @@
+[2018-03-13T23:30:33.551] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-13T23:30:59.812] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-13T23:30:59.813] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-13T23:59:56.523] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-13T23:59:56.525] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T00:00:17.512] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T00:00:17.513] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T00:08:40.267] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T00:08:40.268] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T00:09:10.085] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T00:09:10.086] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T00:36:35.015] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T00:36:35.018] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T00:37:03.622] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T00:37:03.623] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T00:42:49.672] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T00:42:49.674] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T00:43:10.631] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T00:43:10.631] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T01:12:44.697] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T01:12:44.698] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T01:13:13.193] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T01:13:13.193] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T01:27:12.772] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T01:27:12.773] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T01:27:34.975] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T01:27:34.975] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T01:44:07.831] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T01:44:07.833] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T01:44:36.091] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T01:44:36.092] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T02:06:14.276] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T02:06:14.277] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T02:06:38.856] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T02:06:38.856] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T02:14:51.921] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T02:14:51.921] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T02:15:20.401] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T02:15:20.402] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T02:39:31.839] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T02:39:31.839] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T02:39:55.459] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T02:39:55.459] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T02:51:52.539] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T02:51:52.540] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T02:52:20.797] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T02:52:20.797] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T03:09:12.887] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T03:09:12.887] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T03:09:38.248] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T03:09:38.248] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T03:25:17.248] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T03:25:17.248] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T03:25:45.628] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T03:25:45.628] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T03:48:34.325] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T03:48:34.325] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T03:49:00.646] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T03:49:00.646] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T03:49:30.645] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T03:49:30.645] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T04:02:37.071] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T04:02:37.073] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T04:03:02.054] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T04:03:02.054] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T04:25:33.621] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T04:25:33.622] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T04:26:03.399] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T04:26:03.400] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T04:59:23.745] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T04:59:23.747] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T04:59:48.006] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T04:59:48.007] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T05:29:52.532] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T05:29:52.532] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T05:30:22.525] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T05:30:22.525] [INFO] development - GET /__webpack_hmr RESPONSE: 404
+[2018-03-14T05:40:37.841] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }

@@ -1,0 +1,133 @@
+[2018-03-14T14:22:48.726] [INFO] development - { code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'me.shop2\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql: 'select * from shop2',
+  name: 'Error',
+  message: 'ER_NO_SUCH_TABLE: Table \'me.shop2\' doesn\'t exist',
+  stack: 'Error: ER_NO_SUCH_TABLE: Table \'me.shop2\' doesn\'t exist\n    at Query.Sequence._packetToError (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)\n    at Query.ErrorPacket (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)\n    at Protocol._parsePacket (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/Protocol.js:279:23)\n    at Parser.write (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/Parser.js:76:12)\n    at Protocol.write (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/Protocol.js:39:16)\n    at Socket.<anonymous> (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/Connection.js:103:28)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at Socket.Readable.push (_stream_readable.js:208:10)\n    at TCP.onread (net.js:594:20)\n    --------------------\n    at Protocol._enqueue (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/Protocol.js:145:48)\n    at Connection.query (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/Connection.js:208:25)\n    at /Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:4:10\n    at new Promise (<anonymous>)\n    at _class.queryAll (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:3:12)\n    at _class._callee$ (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:17:20)\n    at tryCatch (/Users/fangbao/Documents/i-counting/koa/node_modules/regenerator-runtime/runtime.js:65:40)\n    at Generator.invoke [as _invoke] (/Users/fangbao/Documents/i-counting/koa/node_modules/regenerator-runtime/runtime.js:303:22)\n    at Generator.prototype.(anonymous function) [as next] (/Users/fangbao/Documents/i-counting/koa/node_modules/regenerator-runtime/runtime.js:117:21)\n    at step (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:9:191)\n    at /Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:9:437\n    at new Promise (<anonymous>)\n    at _class.<anonymous> (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:9:99)\n    at _class.demo1 (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:60:21)\n    at _callee9$ (/Users/fangbao/Documents/i-counting/koa/src/routers/userActions.js:43:15)\n    at tryCatch (/Users/fangbao/Documents/i-counting/koa/node_modules/regenerator-runtime/runtime.js:65:40)',
+  status: 500 }
+[2018-03-14T14:22:48.728] [INFO] development - GET /demo/mysql RESPONSE: 500
+[2018-03-14T14:22:49.585] [INFO] development - { code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'me.shop2\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql: 'select * from shop2',
+  name: 'Error',
+  message: 'ER_NO_SUCH_TABLE: Table \'me.shop2\' doesn\'t exist',
+  stack: 'Error: ER_NO_SUCH_TABLE: Table \'me.shop2\' doesn\'t exist\n    at Query.Sequence._packetToError (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)\n    at Query.ErrorPacket (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)\n    at Protocol._parsePacket (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/Protocol.js:279:23)\n    at Parser.write (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/Parser.js:76:12)\n    at Protocol.write (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/Protocol.js:39:16)\n    at Socket.<anonymous> (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/Connection.js:103:28)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at Socket.Readable.push (_stream_readable.js:208:10)\n    at TCP.onread (net.js:594:20)\n    --------------------\n    at Protocol._enqueue (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/protocol/Protocol.js:145:48)\n    at Connection.query (/Users/fangbao/Documents/i-counting/koa/node_modules/mysql/lib/Connection.js:208:25)\n    at /Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:4:10\n    at new Promise (<anonymous>)\n    at _class.queryAll (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:3:12)\n    at _class._callee$ (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:17:20)\n    at tryCatch (/Users/fangbao/Documents/i-counting/koa/node_modules/regenerator-runtime/runtime.js:65:40)\n    at Generator.invoke [as _invoke] (/Users/fangbao/Documents/i-counting/koa/node_modules/regenerator-runtime/runtime.js:303:22)\n    at Generator.prototype.(anonymous function) [as next] (/Users/fangbao/Documents/i-counting/koa/node_modules/regenerator-runtime/runtime.js:117:21)\n    at step (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:9:191)\n    at /Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:9:437\n    at new Promise (<anonymous>)\n    at _class.<anonymous> (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:9:99)\n    at _class.demo1 (/Users/fangbao/Documents/i-counting/koa/src/controllers/Mysql.js:60:21)\n    at _callee9$ (/Users/fangbao/Documents/i-counting/koa/src/routers/userActions.js:43:15)\n    at tryCatch (/Users/fangbao/Documents/i-counting/koa/node_modules/regenerator-runtime/runtime.js:65:40)',
+  status: 500 }
+[2018-03-14T14:22:49.586] [INFO] development - GET /demo/mysql RESPONSE: 500
+[2018-03-14T14:22:58.827] [INFO] development - { '0': 'e', '1': 'r', '2': 'r', status: 500 }
+[2018-03-14T14:22:59.983] [INFO] development - { '0': 'e', '1': 'r', '2': 'r', status: 500 }
+[2018-03-14T14:23:17.667] [INFO] development - { '0': '0', status: 500 }
+[2018-03-14T14:23:18.889] [INFO] development - { '0': '0', status: 500 }
+[2018-03-14T14:23:22.176] [INFO] development - { '0': '0', '1': '1', status: 500 }
+[2018-03-14T14:23:26.154] [INFO] development - { '0': '0', '1': '1', '2': '1', status: 500 }
+[2018-03-14T14:23:30.971] [INFO] development - { '0': '0', '1': '1', '2': '1', '3': '3', status: 500 }
+[2018-03-14T14:23:49.783] [INFO] development - { '0': '0', '1': '1', '2': '1', '3': '3', status: 500 }
+[2018-03-14T14:23:59.795] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T14:24:01.866] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T14:24:03.740] [INFO] development - { '0': '0', '1': '1', '2': '1', '3': '3', status: 500 }
+[2018-03-14T14:24:04.770] [INFO] development - { '0': '0', '1': '1', '2': '1', '3': '3', status: 500 }
+[2018-03-14T14:31:54.407] [INFO] development - { '0': '0', '1': '1', '2': '1', '3': '3', status: 500 }
+[2018-03-14T14:32:55.684] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T14:32:56.604] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T14:33:09.360] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T14:33:18.844] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T14:33:19.853] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T14:33:35.938] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T14:33:36.911] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T14:58:26.257] [INFO] development - GET / RESPONSE: 200
+[2018-03-14T14:58:27.515] [INFO] development - GET / RESPONSE: 200
+[2018-03-14T15:13:05.672] [INFO] development - GET / RESPONSE: 200
+[2018-03-14T15:13:05.708] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T15:13:05.712] [INFO] development - GET /favicon.ico RESPONSE: 404
+[2018-03-14T15:13:09.417] [INFO] development - GET /demo/mysql RESPONSE: 200
+[2018-03-14T15:13:11.372] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:13:12.547] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:13:13.490] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:13:18.911] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:13:24.852] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:14:03.002] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:14:03.512] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:14:14.774] [INFO] development - { code: 'PUG:INVALID_ID',
+  msg: '" pug" is not a valid ID.',
+  line: 1,
+  column: 1,
+  filename: '/Users/fangbao/Documents/i-counting/koa/src/views/test.pug',
+  src: '# pug',
+  toJSON: [Function],
+  name: 'Error',
+  message: '/Users/fangbao/Documents/i-counting/koa/src/views/test.pug:1:1\n  > 1| # pug\n-------^\n\n" pug" is not a valid ID.',
+  stack: 'Error: /Users/fangbao/Documents/i-counting/koa/src/views/test.pug:1:1\n  > 1| # pug\n-------^\n\n" pug" is not a valid ID.\n    at makeError (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-error/index.js:32:13)\n    at Lexer.error (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:59:15)\n    at Lexer.id (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:428:12)\n    at Lexer.callLexerFunction (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:1456:23)\n    at Lexer.advance (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:1490:15)\n    at Lexer.callLexerFunction (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:1456:23)\n    at Lexer.getTokens (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:1512:12)\n    at lex (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:12:42)\n    at Object.lex (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:99:27)\n    at Function.loadString [as string] (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-load/index.js:44:24)\n    at compileBody (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:86:18)\n    at Object.exports.compile (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:242:16)\n    at handleTemplateCache (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:215:25)\n    at Object.exports.compileFile (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:356:10)\n    at /Users/fangbao/Documents/i-counting/koa/node_modules/consolidate/lib/consolidate.js:956:58\n    at /Users/fangbao/Documents/i-counting/koa/node_modules/consolidate/lib/consolidate.js:162:5',
+  status: 500 }
+[2018-03-14T15:14:14.776] [INFO] development - GET /demo/template RESPONSE: 500
+[2018-03-14T15:14:16.503] [INFO] development - { code: 'PUG:INVALID_ID',
+  msg: '" pug" is not a valid ID.',
+  line: 1,
+  column: 1,
+  filename: '/Users/fangbao/Documents/i-counting/koa/src/views/test.pug',
+  src: '# pug',
+  toJSON: [Function],
+  name: 'Error',
+  message: '/Users/fangbao/Documents/i-counting/koa/src/views/test.pug:1:1\n  > 1| # pug\n-------^\n\n" pug" is not a valid ID.',
+  stack: 'Error: /Users/fangbao/Documents/i-counting/koa/src/views/test.pug:1:1\n  > 1| # pug\n-------^\n\n" pug" is not a valid ID.\n    at makeError (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-error/index.js:32:13)\n    at Lexer.error (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:59:15)\n    at Lexer.id (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:428:12)\n    at Lexer.callLexerFunction (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:1456:23)\n    at Lexer.advance (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:1490:15)\n    at Lexer.callLexerFunction (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:1456:23)\n    at Lexer.getTokens (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:1512:12)\n    at lex (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-lexer/index.js:12:42)\n    at Object.lex (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:99:27)\n    at Function.loadString [as string] (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-load/index.js:44:24)\n    at compileBody (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:86:18)\n    at Object.exports.compile (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:242:16)\n    at handleTemplateCache (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:215:25)\n    at Object.exports.compileFile (/Users/fangbao/Documents/i-counting/koa/node_modules/pug/lib/index.js:356:10)\n    at /Users/fangbao/Documents/i-counting/koa/node_modules/consolidate/lib/consolidate.js:956:58\n    at /Users/fangbao/Documents/i-counting/koa/node_modules/consolidate/lib/consolidate.js:162:5',
+  status: 500 }
+[2018-03-14T15:14:16.507] [INFO] development - GET /demo/template RESPONSE: 500
+[2018-03-14T15:14:39.554] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:14:40.478] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:34:31.135] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:34:32.520] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T15:34:33.746] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T16:41:01.613] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T16:49:01.321] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T16:52:24.780] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T16:52:25.710] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T16:52:42.067] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T16:52:43.256] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T16:53:15.677] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T16:53:16.911] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T16:54:13.632] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T18:06:17.284] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T18:06:17.314] [INFO] development - { message: 'Not Found',
+  name: 'NotFoundError',
+  stack: 'NotFoundError: Not Found\n    at Object.throw (/Users/fangbao/Documents/i-counting/koa/node_modules/koa/lib/context.js:92:11)\n    at next.then (/Users/fangbao/Documents/i-counting/koa/node_modules/koa-json-error/lib/middleware.js:52:58)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)',
+  status: 404 }
+[2018-03-14T18:06:17.315] [INFO] development - GET /favicon.ico RESPONSE: 404
+[2018-03-14T18:54:54.680] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T18:54:55.737] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T18:58:05.153] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T18:58:09.568] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T18:58:25.467] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T18:59:08.642] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T18:59:24.511] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T19:01:29.326] [INFO] development - GET /demo/template RESPONSE: 200
+[2018-03-14T19:02:56.416] [INFO] development - { code: 'PUG:SELF_CLOSING_CONTENT',
+  msg: 'link is a self closing element: <link/> but contains nested content.',
+  line: 4,
+  column: 3,
+  filename: '/Users/fangbao/Documents/i-counting/koa/src/views/index.pug',
+  src: undefined,
+  toJSON: [Function],
+  name: 'Error',
+  message: '/Users/fangbao/Documents/i-counting/koa/src/views/index.pug:4:3\n\nlink is a self closing element: <link/> but contains nested content.',
+  stack: 'Error: /Users/fangbao/Documents/i-counting/koa/src/views/index.pug:4:3\n\nlink is a self closing element: <link/> but contains nested content.\n    at makeError (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-error/index.js:32:13)\n    at Compiler.error (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:92:15)\n    at Compiler.visitTag (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:560:14)\n    at Compiler.visitNode (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:308:37)\n    at Compiler.visit (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:297:10)\n    at Compiler.visitBlock (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:380:12)\n    at Compiler.visitNamedBlock (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:355:17)\n    at Compiler.visitNode (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:308:37)\n    at Compiler.visit (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:297:10)\n    at Compiler.visitBlock (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:380:12)\n    at Compiler.visitNode (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:308:37)\n    at Compiler.visit (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:297:10)\n    at Compiler.visitTag (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:569:12)\n    at Compiler.visitNode (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:308:37)\n    at Compiler.visit (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:297:10)\n    at Compiler.visitBlock (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:380:12)',
+  status: 500 }
+[2018-03-14T19:02:56.418] [INFO] development - GET /demo/template RESPONSE: 500
+[2018-03-14T19:03:11.351] [INFO] development - { code: 'PUG:SELF_CLOSING_CONTENT',
+  msg: 'link is a self closing element: <link/> but contains nested content.',
+  line: 4,
+  column: 3,
+  filename: '/Users/fangbao/Documents/i-counting/koa/src/views/index.pug',
+  src: undefined,
+  toJSON: [Function],
+  name: 'Error',
+  message: '/Users/fangbao/Documents/i-counting/koa/src/views/index.pug:4:3\n\nlink is a self closing element: <link/> but contains nested content.',
+  stack: 'Error: /Users/fangbao/Documents/i-counting/koa/src/views/index.pug:4:3\n\nlink is a self closing element: <link/> but contains nested content.\n    at makeError (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-error/index.js:32:13)\n    at Compiler.error (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:92:15)\n    at Compiler.visitTag (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:560:14)\n    at Compiler.visitNode (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:308:37)\n    at Compiler.visit (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:297:10)\n    at Compiler.visitBlock (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:380:12)\n    at Compiler.visitNamedBlock (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:355:17)\n    at Compiler.visitNode (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:308:37)\n    at Compiler.visit (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:297:10)\n    at Compiler.visitBlock (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:380:12)\n    at Compiler.visitNode (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:308:37)\n    at Compiler.visit (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:297:10)\n    at Compiler.visitTag (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:569:12)\n    at Compiler.visitNode (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:308:37)\n    at Compiler.visit (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:297:10)\n    at Compiler.visitBlock (/Users/fangbao/Documents/i-counting/koa/node_modules/pug-code-gen/index.js:380:12)',
+  status: 500 }

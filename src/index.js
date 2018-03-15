@@ -1,10 +1,28 @@
-import Koa from 'koa';
+import Koa from 'koa'
+import path from 'path'
 import logger from './logs/log'
-import userActionsRouter from './routers/userActions'
+import router from './routers'
 import error from 'koa-json-error'
-
+import db from './db'
+import views from 'koa-views'
+import stylus from 'koa-stylus'
+import serve from 'koa-static'
 const app = new Koa();
-
+app.keys = ['some secret hurr']
+var session = require('koa-session')
+const CONFIG = {
+    key: 'koa:sess',
+    maxAge: 5000,
+    overwrite: true,
+    httpOnly: true,
+    signed: true,
+    rolling: false,
+    renew: false
+}
+app.use(session(CONFIG, app))
+app.use(views(__dirname + '/views', {
+    extension: 'pug'
+}))
 // 日志
 app.use(async (ctx, next) => {
   try {
@@ -34,9 +52,7 @@ let errorOptions = {
     },
 }
 app.use(error(errorOptions))
-
-// 路由
-app.use(userActionsRouter.routes())
-app.use(userActionsRouter.allowedMethods())
-
+app.use(router)
+app.use(serve(path.join(__dirname, '../assets/dest')))
+app.context.db = db
 export default app;

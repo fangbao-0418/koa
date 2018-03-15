@@ -1,14 +1,24 @@
 {
+  "name": "koa-demo",
+  "description": "koa demo",
+  "repository": "https://github.com/fangbao-0418/koa.git",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "babel-register": "^6.26.0",
-    "jsonwebtoken": "^8.1.0",
+    "ejs": "^2.5.7",
+    "jsonwebtoken": "^8.2.0",
     "koa": "^2.4.1",
     "koa-basic-auth": "^2.0.0",
     "koa-body": "^2.5.0",
     "koa-json-error": "^3.1.2",
     "koa-router": "^7.3.0",
-    "log4js": "^2.4.1"
+    "koa-session": "^5.8.1",
+    "koa-static": "^4.0.2",
+    "koa-stylus": "^0.1.0",
+    "koa-views": "^6.1.4",
+    "log4js": "^2.4.1",
+    "mysql": "^2.15.0",
+    "pug": "^2.0.1"
   },
   "license": "MIT",
   "babel": {
@@ -27,6 +37,9 @@
     ]
   },
   "devDependencies": {
-    "babel-preset-env": "^1.6.1"
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-stylus": "^2.7.0"
   }
 }
